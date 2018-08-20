@@ -1,0 +1,6 @@
+framework module Pods_CadastroClientesTests {
+  umbrella header "Pods-CadastroClientesTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_CadastroClientesUITests {
+  umbrella header "Pods-CadastroClientesUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

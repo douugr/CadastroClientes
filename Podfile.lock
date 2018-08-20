@@ -1,0 +1,20 @@
+PODS:
+  - AKMaskField (2.0.3)
+  - Alamofire (4.7.2)
+
+DEPENDENCIES:
+  - AKMaskField
+  - Alamofire (~> 4.7)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AKMaskField
+    - Alamofire
+
+SPEC CHECKSUMS:
+  AKMaskField: b6d147524813e62cd3f15475fa2200ce7a3d2620
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+
+PODFILE CHECKSUM: 8274dd514ef14ee9ea54c1ddf12003fc1903aa04
+
+COCOAPODS: 1.5.3
